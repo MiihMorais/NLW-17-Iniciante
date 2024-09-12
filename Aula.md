@@ -3,13 +3,13 @@
 Maneira de dar instrução ao computador.
 Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-> **Algoritmos**: Sequência de passos mlógicos e finita para resolução de problema.
+> **Algoritmos**: Sequência de passos lógicos e finita para resolução de problema.
 
 ## Peças de uma linguagem
 
 - [x] Comentários
 - Declaração de variáveis (const, let)
--Operadores (atribuição, concatenação, matemáticos, lógicos)
+- Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, bollean)
 - Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
@@ -37,6 +37,7 @@ Function[x]
 
 Operadores de atribuição de valor (=)[x]
 Operador de contatenação(+)[x]
+Operadores de comparação: == != < > <= => [x]
 
 ## Estrutura de dados
 
@@ -64,6 +65,7 @@ Uma lista quem contém qualquer tipo de dado[x]
 # Condicionais
 
 [x] switch
+[x] if/else
 
 ## Módulos em Node.js
 
