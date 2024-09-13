@@ -33,9 +33,9 @@ const listarMetas = async ( ) => {
         return
     }
 
-    metas.forEach((m) =>{
+    metas.forEach((m) =>{     
         m.checked = false
-    })
+    })   //desmarcar
 
     respostas.forEach((resposta) => {
         const meta = metas.find((m) => {
