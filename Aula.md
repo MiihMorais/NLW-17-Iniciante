@@ -17,7 +17,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Fases de resolução de um problema
 
--Coletar dados
+ Coletar dados
  Processar os dados (manipular, alterar ...)
  Apresentar os dados
 
@@ -45,7 +45,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 ## Arrays
 
 [x] Uma lista quem contém qualquer tipo de dado
-[x] Métodos de array: push, [forEach, find, filter]: HDF(Higher Order Functions) 
+[x] Métodos de array: push, [forEach, find, filter, map]: HDF(Higher Order Functions) 
 
 ### Objetos:
 
