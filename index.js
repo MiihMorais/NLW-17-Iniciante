@@ -37,8 +37,6 @@ const listarMetas = async ( ) => {
         return
     }
 
-   
-
     respostas.forEach((resposta) => {
         const meta = metas.find((m) => {
             return m.value === resposta
