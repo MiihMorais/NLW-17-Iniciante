@@ -18,8 +18,8 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 ## Fases de resolução de um problema
 
 -Coletar dados
-Processar os dados (manipular, alterar ...)
-Apresentar os dados
+ Processar os dados (manipular, alterar ...)
+ Apresentar os dados
 
 ## Escopos e variáveis
 
